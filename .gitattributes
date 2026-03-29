@@ -1,0 +1,2 @@
+.sfetensors filter=lfs diff=lfs merge=lfs -text
+fake_news_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
